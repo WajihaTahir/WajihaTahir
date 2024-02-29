@@ -15,11 +15,11 @@ Email: <a href="mailto:wajihatahir1994@gmail.com">wajihatahir1994@gmail.com</a>
 <br>
 LinkedIn: 
 <a href="https://www.linkedin.com/in/wajiha-tahir-569803124/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn-icon" width="22px" height="22px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn-icon" width="30px" height="30px"/>
 </a>
 <br>
 <br>
-##
+
 <h2>Languages and Tools 🛠️: </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,github,react,ts,vite,firebase,mongodb,apollo,cpp,nodejs,vscode,figma&perline=10)](https://skillicons.dev)
