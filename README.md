@@ -10,8 +10,8 @@ Proficient in HTML, CSS, TypeScript, JavaScript, and experience with frameworks 
 
 ##
 <br>
-<br>
 🚀 Let's Connect <br>
+<br>
 Email: <a href="mailto:wajihatahir1994@gmail.com">wajihatahir1994@gmail.com</a>
 <br>
 LinkedIn: 
@@ -20,7 +20,7 @@ LinkedIn:
 </a>
 <br>
 <br>
-
+##
 Languages and Tools 🛠️:  <br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,github,react,ts,vite,firebase,mongodb,apollo,cpp,nodejs,vscode,figma&perline=10)](https://skillicons.dev)
 
