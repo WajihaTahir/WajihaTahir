@@ -13,7 +13,7 @@ Proficient in HTML, CSS, TypeScript, JavaScript, and experience with frameworks 
 <br>
 
 Languages and Tools 🛠️:  <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,react,ts,vite,firebase,mongodb,apollo,cpp,nodejs,vscode,figma&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,react,ts,vite,firebase,mongodb,apollo,cpp,nodejs,vscode,figma&perline=10)](https://skillicons.dev)
 
 
 
