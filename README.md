@@ -6,13 +6,13 @@ Proficient in HTML, CSS, TypeScript, JavaScript, and experience with frameworks 
 💬 I speak fluent English and basic German. <br>
 🏢 I shall be graduating as a full-stack developer from Code Academy, Berlin in April 2024. <br>
 📫 Contact me at wajihatahir1994@gmail.com. <br>
-🌐 Connect with me on: <br>
+🌐 Connect with me on:
 <a href="https://www.linkedin.com/in/wajiha-tahir-569803124/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn-icon" width="22px" height="22px"/>
 </a>
 <br>
 
-Languages and Tools: <br>
+Languages and Tools 🛠️:  <br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,github,react,ts,vite,firebase,mongodb,apollo,cpp,nodejs,vscode,figma&perline=6)](https://skillicons.dev)
 
 
