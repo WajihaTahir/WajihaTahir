@@ -6,9 +6,12 @@ Proficient in HTML, CSS, TypeScript, JavaScript, and experience with frameworks 
 
 💬 I speak fluent English and basic German. <br>
 🏢 I did Bachelors in Space Sciences and now I am full-stack developer graduate of Code Academy, Berlin. <br>
-## 🚀 Let's Connect <br>
-Email:<a href="mailto:wajihatahir1994@gmail.com">wajihatahir1994@gmail.com</a>
 <br>
+____________________________________________________________________________________________________________________________________
+## 🚀 Let's Connect <br>
+Email: <a href="mailto:wajihatahir1994@gmail.com">wajihatahir1994@gmail.com</a>
+<br>
+LinkedIn: 
 <a href="https://www.linkedin.com/in/wajiha-tahir-569803124/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn-icon" width="22px" height="22px"/>
 </a>
