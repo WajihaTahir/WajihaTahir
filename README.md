@@ -1,4 +1,4 @@
-##Hi there, I am Wajiha! 👋
+<h1>Hi there, I am Wajiha! 👋 </h1>
 Currently living in Berlin and shifting my career towards full-stack development. <br>
 Driven by a relentless curiosity for technology, I have immersed myself in learning the latest web development technologies and programming languages. 
 
@@ -10,7 +10,7 @@ Proficient in HTML, CSS, TypeScript, JavaScript, and experience with frameworks 
 
 ##
 <br>
-🚀 ##Let's Connect <br>
+🚀 <h2>Let's Connect </h2><br>
 <br>
 Email: <a href="mailto:wajihatahir1994@gmail.com">wajihatahir1994@gmail.com</a>
 <br>
@@ -20,8 +20,8 @@ LinkedIn:
 </a>
 <br>
 <br>
-##
-##Languages and Tools 🛠️:  <br>
+
+<h2>Languages and Tools 🛠️: </h2><br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,github,react,ts,vite,firebase,mongodb,apollo,cpp,nodejs,vscode,figma&perline=10)](https://skillicons.dev)
 
 
