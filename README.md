@@ -9,7 +9,6 @@ Proficient in HTML, CSS, TypeScript, JavaScript, and experience with frameworks 
 💻 Web Development: I am curious about building innovative technological solutions and always eager to learn, grow, and explore new technologies.
 
 ##
-<br>
  <h2>🚀 Let's Connect </h2><br>
 <br>
 Email: <a href="mailto:wajihatahir1994@gmail.com">wajihatahir1994@gmail.com</a>
@@ -21,7 +20,7 @@ LinkedIn:
 <br>
 <br>
 
-<h2>Languages and Tools 🛠️: </h2>
+Languages and Tools 🛠️: 
 <br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,github,react,ts,vite,firebase,mongodb,apollo,cpp,nodejs,vscode,figma&perline=10)](https://skillicons.dev)
 
