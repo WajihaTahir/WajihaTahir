@@ -24,7 +24,7 @@ LinkedIn:
 
 <h2>Languages and Tools 🛠️: </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,react,ts,vite,firebase,mongodb,apollo,cpp,nodejs,vscode,figma&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,react,ts,vite,firebase,mongodb,apollo,cpp,nodejs,nextjs,vscode,figma&perline=10)](https://skillicons.dev)
 
 
 
