@@ -2,7 +2,7 @@
 
 Driven by a relentless curiosity for technology, I have immersed myself in learning the latest web development technologies and programming languages. <br>
 
-I am curious and eager to learn new tech stacks. I am proficient in HTML, CSS, TypeScript, JavaScript, and have experience with frameworks like React, NextJS and Node.js. I am well-prepared to contribute to the dynamic field of full-stack development. 
+I am curious and eager to learn new tech stacks. I am proficient in HTML, CSS, TypeScript, JavaScript, and have experience with frameworks like React, NextJS and Node.js along with MongoDb and Firebase. I am well-prepared to contribute to the dynamic field of full-stack development. 
 ##
 <h2>👧🏻 About Me</h2><br>
 🏠 Currently living in Berlin and shifting my career towards full-stack development. <br>
