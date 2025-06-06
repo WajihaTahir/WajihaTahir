@@ -5,9 +5,8 @@ Driven by a relentless curiosity for technology, I have immersed myself in learn
 I am curious and eager to learn new tech stacks. I am proficient in HTML, CSS, TypeScript, JavaScript, and have experience with frameworks like React, NextJS and Node.js along with MongoDb and Firebase. I am well-prepared to contribute to the dynamic field of full-stack development. 
 ##
 <h2>👧🏻 About Me</h2><br>
-🏠 Currently living in Berlin and shifting my career towards full-stack development. <br>
-💬 I speak fluent English and basic German. <br>
-🏢 I did Bachelors in Space Sciences and now I am full-stack developer graduate of Code Academy, Berlin. <br>
+🏠 Currently living in Berlin. <br>
+💬 I speak fluent English and B1 German. <br>
 💻 Web Development: I am curious about building innovative technological solutions and always eager to learn, grow, and explore new technologies.
 
 ##
