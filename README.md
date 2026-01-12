@@ -36,8 +36,6 @@ I am curious and eager to learn new tech stacks. I am proficient in HTML, CSS, T
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WajihaTahir&theme=tokyonight&layout=compact)
-
 
 
 
