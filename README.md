@@ -10,11 +10,6 @@ I am curious and eager to learn new tech stacks. I am proficient in HTML, CSS, T
 💻 Web Development: I am curious about building innovative technological solutions and always eager to learn, grow, and explore new technologies.
 
 ##
- <h2>🚀 Let's Connect </h2><br>
-<br>
-Email: <a href="mailto:wajihatahir1994@gmail.com">wajihatahir1994@gmail.com</a>
-<br>
-
 <h2>Languages and Tools 🛠️: </h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
