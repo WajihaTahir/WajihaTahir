@@ -6,19 +6,13 @@ I am curious and eager to learn new tech stacks. I am proficient in HTML, CSS, T
 ##
 <h2>👧🏻 About Me</h2><br>
 🏠 Currently living in Berlin. <br>
-💬 I speak fluent English and B1 German. <br>
+💬 I speak fluent English, Urdu and German. <br>
 💻 Web Development: I am curious about building innovative technological solutions and always eager to learn, grow, and explore new technologies.
 
 ##
  <h2>🚀 Let's Connect </h2><br>
 <br>
 Email: <a href="mailto:wajihatahir1994@gmail.com">wajihatahir1994@gmail.com</a>
-<br>
-LinkedIn: 
-<a href="https://www.linkedin.com/in/wajiha-tahir-569803124/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn-icon" width="30px" height="30px"/>
-</a>
-<br>
 <br>
 
 <h2>Languages and Tools 🛠️: </h2>
